@@ -1,0 +1,11 @@
+:root {
+    --color01: #fff
+    --color02: #0a0c19
+    --color03: #0a0c19
+
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
